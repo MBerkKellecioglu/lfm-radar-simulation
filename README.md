@@ -2,7 +2,7 @@
 
 A Python simulation of a monostatic linear frequency-modulated (LFM) pulse radar, from complex baseband signal generation to range compression, range-Doppler processing, and adaptive CA-CFAR detection.
 
-Developed by **M. Berk Kellecioğlu** for **STS 619 - Advanced Radar Technologies**. The repository contains five runnable examples, shared numerical routines, and regression tests. Comments, console output, and plot labels are in English.
+The repository contains five runnable examples, shared numerical routines, and regression tests. Comments, console output, and plot labels are in English.
 
 ![Range-Doppler comparison](docs/images/part4_range_doppler.png)
 
