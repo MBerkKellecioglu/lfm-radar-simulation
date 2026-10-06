@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+figures/
+# Reports are intentionally excluded from this repository.
+*.pdf
